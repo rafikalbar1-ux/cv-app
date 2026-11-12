@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Personal CV App",
+    "slug": "personal-cv-app",
+    "version": "1.0.0",
+    "scheme": "cvapp",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": ["expo-router"]
+  }
+}

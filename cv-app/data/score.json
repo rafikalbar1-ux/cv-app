@@ -1,0 +1,11 @@
+{
+  "identitas": { "nama": "Rapi", "nim": "242505034", "mk": "Pemrograman Mobile 2", "dosen": "Iin, M.Kom" },
+  "currentScore": { "nilai": 89, "grade": "A" },
+  "learningPoints": { "total": 12375 },
+  "progress": [
+    { "id": "attendance", "label": "Attendance", "value": 100, "ikon": "calendar", "keterangan": "Kehadiran kelas" },
+    { "id": "practice", "label": "Practice", "value": 87, "ikon": "code-slash", "keterangan": "Latihan praktik" },
+    { "id": "quest", "label": "Quest", "value": 95, "ikon": "compass", "keterangan": "Misi mingguan" },
+    { "id": "challenge", "label": "Challenge", "value": 100, "ikon": "trophy", "keterangan": "Tantangan proyek" }
+  ]
+}
