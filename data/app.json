@@ -1,0 +1,71 @@
+{
+  "nama": "Personal CV dan Academic Score App",
+  "versi": "1.0.0",
+  "level": "Level 9 dan Level 10",
+  "mataKuliah": "Pemrograman Mobile 2",
+  "teknologi": [
+    "React Native",
+    "Expo",
+    "Expo Router",
+    "JSON lokal",
+    "AsyncStorage",
+    "Jest"
+  ],
+  "menu": [
+    {
+      "id": "m1",
+      "label": "Tentang",
+      "rute": "/about",
+      "ikon": "person",
+      "warna": "primary"
+    },
+    {
+      "id": "m2",
+      "label": "Skills",
+      "rute": "/skills",
+      "ikon": "flash",
+      "warna": "accent"
+    },
+    {
+      "id": "m3",
+      "label": "Karya",
+      "rute": "/portfolio",
+      "ikon": "briefcase",
+      "warna": "accent2"
+    },
+    {
+      "id": "m6",
+      "label": "Galeri",
+      "rute": "/gallery",
+      "ikon": "images",
+      "warna": "primary"
+    },
+    {
+      "id": "m4",
+      "label": "My Score",
+      "rute": "/score",
+      "ikon": "stats-chart",
+      "warna": "success"
+    },
+    {
+      "id": "m5",
+      "label": "Kontak",
+      "rute": "/contact",
+      "ikon": "mail",
+      "warna": "warn"
+    }
+  ],
+  "fitur": [
+    "Navigasi 6 halaman dengan Expo Router",
+    "Data profil, skills, karya, dan nilai dari file JSON",
+    "Mock API dengan status memuat, error, dan kosong",
+    "Skills dengan filter kategori dan level kemampuan",
+    "Karya dengan pencarian, filter tag, dan detail yang bisa dibuka",
+    "Galeri foto dengan filter kategori dan penampil layar penuh",
+    "Dashboard My Score dengan indikator progres dinamis",
+    "Formulir kontak dengan validasi dan riwayat pesan tersimpan",
+    "Mode terang dan gelap yang diingat aplikasi",
+    "Aksesibilitas dasar: label, peran, dan target sentuh besar",
+    "Unit test untuk validasi dan fungsi nilai"
+  ]
+}

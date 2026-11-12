@@ -1,0 +1,9 @@
+[
+  { "id": "s1", "nama": "Laga Silat Putra Kelas A", "level": 80, "kategori": "Olahraga", "ikon": "body", "deskripsi": "Pengalaman bertanding silat kategori laga putra kelas A pada masa sekolah." },
+  { "id": "s2", "nama": "Double Stick", "level": 70, "kategori": "Olahraga", "ikon": "fitness", "deskripsi": "Menguasai teknik dasar sampai menengah permainan sepasang tongkat." },
+  { "id": "s3", "nama": "Toya", "level": 70, "kategori": "Olahraga", "ikon": "barbell", "deskripsi": "Menguasai jurus dasar sampai menengah dengan tongkat panjang." },
+  { "id": "s4", "nama": "React Native", "level": 45, "kategori": "Teknologi", "ikon": "phone-portrait", "deskripsi": "Membuat aplikasi mobile dengan Expo, komponen, props, state, dan navigasi." },
+  { "id": "s5", "nama": "JavaScript", "level": 50, "kategori": "Teknologi", "ikon": "code-slash", "deskripsi": "Memahami dasar JavaScript, JSX, array, dan pengolahan data JSON." },
+  { "id": "s6", "nama": "Disiplin dan Fokus", "level": 85, "kategori": "Soft Skill", "ikon": "shield-checkmark", "deskripsi": "Terbiasa menjaga jadwal dan konsentrasi dari latihan silat." },
+  { "id": "s7", "nama": "Sportivitas", "level": 85, "kategori": "Soft Skill", "ikon": "people", "deskripsi": "Menghargai lawan, aturan, dan proses dalam pertandingan maupun kerja tim." }
+]

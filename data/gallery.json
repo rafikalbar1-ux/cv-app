@@ -1,0 +1,12 @@
+[
+  { "id": "g1", "file": "foto1", "judul": "Foto formal", "kategori": "Profil", "keterangan": "Foto diri untuk CV." },
+  { "id": "g2", "file": "foto2", "judul": "Santai", "kategori": "Profil", "keterangan": "Foto harian di luar kegiatan kuliah." },
+  { "id": "g3", "file": "foto3", "judul": "Latihan silat", "kategori": "Silat", "keterangan": "Sesi latihan rutin." },
+  { "id": "g4", "file": "foto4", "judul": "Pertandingan laga", "kategori": "Silat", "keterangan": "Kategori laga putra kelas A." },
+  { "id": "g5", "file": "foto5", "judul": "Double stick", "kategori": "Silat", "keterangan": "Latihan senjata double stick." },
+  { "id": "g6", "file": "foto6", "judul": "Toya", "kategori": "Silat", "keterangan": "Latihan jurus toya." },
+  { "id": "g7", "file": "foto7", "judul": "Di kampus", "kategori": "Kampus", "keterangan": "Suasana kuliah Sistem Informasi." },
+  { "id": "g8", "file": "foto8", "judul": "Belajar coding", "kategori": "Kampus", "keterangan": "Mengerjakan proyek React Native." },
+  { "id": "g9", "file": "foto9", "judul": "Bersama teman", "kategori": "Momen", "keterangan": "Kebersamaan dengan teman." },
+  { "id": "g10", "file": "foto10", "judul": "Kenangan", "kategori": "Momen", "keterangan": "Momen berkesan." }
+]

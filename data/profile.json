@@ -1,0 +1,39 @@
+{
+  "nama": "Rapi",
+  "nim": "242505034",
+  "jurusan": "Sistem Informasi",
+  "fakultas": "Komputer",
+  "semester": "5",
+  "profesi": "Mahasiswa Sistem Informasi dan Pesilat",
+  "tagline": "Tenang di arena, teliti di layar.",
+  "deskripsi": "Mahasiswa Sistem Informasi semester 5 yang sedang mendalami pengembangan aplikasi mobile dengan React Native dan Expo. Dibesarkan dari latihan silat sejak sekolah, saya terbiasa disiplin, sportif, dan tidak mudah menyerah.",
+  "tentang": [
+    "Saya Rapi, mahasiswa Sistem Informasi di Fakultas Komputer. Saat ini saya belajar membangun aplikasi mobile, mulai dari menyusun tampilan, mengelola data, sampai membuat navigasi antarhalaman.",
+    "Sebelum kuliah, saya aktif di dunia silat dan pernah turun di kategori laga putra kelas A pada masa sekolah. Latihan rutin di sana membentuk kebiasaan disiplin, fokus, dan menghargai proses.",
+    "Di waktu luang, saya berlatih double stick dan toya. Saya ingin menggabungkan dua sisi ini: ketangguhan dari olahraga dan ketelitian dari teknologi informasi."
+  ],
+  "email": "rapi@example.com",
+  "kontak": [
+    { "id": "k1", "ikon": "mail", "label": "Email", "nilai": "rapi@example.com", "aksi": "mailto:rapi@example.com" },
+    { "id": "k2", "ikon": "school", "label": "Kampus", "nilai": "Fakultas Komputer, Sistem Informasi", "aksi": null },
+    { "id": "k3", "ikon": "time", "label": "Waktu respons", "nilai": "Biasanya dalam 1 sampai 2 hari", "aksi": null }
+  ],
+  "minat": ["Pemrograman Mobile", "Sistem Informasi", "Desain Antarmuka", "Silat", "Olahraga Senjata"],
+  "nilai": [
+    { "id": "v1", "ikon": "shield-checkmark", "nama": "Disiplin", "deskripsi": "Latihan dan belajar dijalani dengan jadwal yang konsisten." },
+    { "id": "v2", "ikon": "people", "nama": "Sportivitas", "deskripsi": "Menang dengan rendah hati, kalah dengan lapang dada." },
+    { "id": "v3", "ikon": "flame", "nama": "Pantang menyerah", "deskripsi": "Kesalahan dianggap bahan belajar, bukan alasan berhenti." }
+  ],
+  "hobi": [
+    { "id": "h1", "nama": "Double Stick", "ikon": "fitness", "deskripsi": "Melatih kecepatan, koordinasi dua tangan, dan ketepatan gerak dengan sepasang tongkat." },
+    { "id": "h2", "nama": "Toya", "ikon": "barbell", "deskripsi": "Berlatih jurus toya (tongkat panjang) untuk menjaga kekuatan, keseimbangan, dan fokus." }
+  ],
+  "pendidikan": [
+    { "id": "d1", "periode": "2024 sampai sekarang", "judul": "S1 Sistem Informasi", "lokasi": "Fakultas Komputer", "deskripsi": "Sedang menempuh semester 5. Mata kuliah terkini: Pemrograman Mobile 2 (React Native dan Expo)." },
+    { "id": "d2", "periode": "Masa sekolah", "judul": "Pendidikan menengah", "lokasi": "Sekolah", "deskripsi": "Aktif mengikuti kegiatan silat di sekolah." }
+  ],
+  "pengalaman": [
+    { "id": "e1", "periode": "Masa sekolah", "judul": "Peserta Laga Silat Putra Kelas A", "lokasi": "Sekolah", "deskripsi": "Bertanding di kategori laga (tanding) putra kelas A." },
+    { "id": "e2", "periode": "2026", "judul": "Proyek UTS Pemrograman Mobile 2", "lokasi": "Mandiri", "deskripsi": "Membangun aplikasi Personal CV dan Academic Score dengan React Native." }
+  ]
+}
